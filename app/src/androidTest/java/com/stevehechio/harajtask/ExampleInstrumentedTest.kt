@@ -1,4 +1,4 @@
-package com.example.harajtask
+package com.stevehechio.harajtask
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

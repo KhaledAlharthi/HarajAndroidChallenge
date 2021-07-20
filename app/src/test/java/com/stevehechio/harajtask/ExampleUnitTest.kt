@@ -1,4 +1,4 @@
-package com.example.harajtask
+package com.stevehechio.harajtask
 
 import org.junit.Test
 

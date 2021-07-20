@@ -4,7 +4,7 @@
     <color name="colorPrimaryDark">#DB013C69</color>
     <color name="colorAccent">#069327</color>
 
-    <color name="background">#FAFAFA</color>
+    <color name="background">#36373A</color>
     <color name="textBlack">#36373A</color>
-    <color name="grayCal">#4E555F</color>
+    <color name="grayCal">#CCCCCC</color>
 </resources>
